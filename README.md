@@ -3,4 +3,4 @@
 - minghauLoh (sword)
 - JonnyMANSON (helmet)
 - seenoise (remains)
-- H.Foucault
+- H.Foucault (ruins)
