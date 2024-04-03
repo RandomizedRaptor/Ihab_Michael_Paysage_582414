@@ -6,4 +6,3 @@
 - H.Foucault (ruins)
 - kiprus (tree)
 - Thunder (bush)
-- Maf'j Alvarez (flowers)
